@@ -1,5 +1,11 @@
 # 📚 Book Popularity Classification
 
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![GitHub stars](https://img.shields.io/github/stars/wrrnchng/book-popularity-classification)
+![GitHub forks](https://img.shields.io/github/forks/wrrnchng/book-popularity-classification)
+
 ### Disclaimer
 *This project is based on files and datasets provided by DataCamp as part of their real-world projects. The dataset and structure align with educational content from DataCamp to help learners practice machine learning techniques in real-world scenarios.*
 
