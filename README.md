@@ -20,17 +20,8 @@ This project builds a binary classification model to determine whether a book is
   - Feature Engineering: Converts categorical and text data into numerical form.
 
   - Hyperparameter Optimization: Uses GridSearchCV for the best model.
-
-### 📂 Project Structure
-
-    book-popularity-classification/
-    │── README.md  # Project Documentation
-    │── book_data.csv  # (Optional) Sample Dataset
-    │── book_popularity_model.py  # Main Python Script
-    │── requirements.txt  # Dependencies
-    │── .gitignore  # Ignore unnecessary files
-
-🛠️ Installation & Setup
+    
+### 🛠️ Installation & Setup
 
 1️⃣ Clone the repository
     
