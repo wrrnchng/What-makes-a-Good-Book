@@ -23,16 +23,11 @@ This project builds a binary classification model to determine whether a book is
     
 ### 🛠️ Installation & Setup
 
-1️⃣ Clone the repository
-    
-    git clone https://github.com/YOUR_USERNAME/book-popularity-classification.git
-    cd book-popularity-classification
-
-2️⃣ Install dependencies
+1️⃣ Install dependencies
 
     pip install -r requirements.txt
 
-3️⃣ Run the Model
+2️⃣ Run the Model
 
     python book_popularity_model.py
 
